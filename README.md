@@ -1,1 +1,1 @@
-# Wellness Chatbot that provides emotional and mental support
+## Wellness Chatbot that provides emotional and mental support
