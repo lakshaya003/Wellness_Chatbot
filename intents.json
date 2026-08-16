@@ -1,0 +1,187 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "hi",
+                "hello",
+                "hey",
+                "good morning",
+                "good evening"
+            ],
+            "responses": [
+                "Hello! I'm here to support you.",
+                "Hi there! How are you feeling today?",
+                "Hey! It's nice to talk with you."
+            ]
+        },
+        {
+            "tag": "diary",
+            "patterns": [
+                "write down",
+                "pen down",
+                "need to vent out",
+                "express",
+                "i want to write in my diary"
+            ],
+            "responses": [
+                "Sure! Go ahead and write what's on your mind.",
+                "I'm always here when you need a listening ear. What would you like to write today?"
+            ]
+        },
+        {
+            "tag": "happy",
+            "patterns": [
+                "happy",
+                "joyful",
+                "excited",
+                "content",
+                "cheerful",
+                "delighted",
+                "elated",
+                "uplifted",
+                "pleased"
+            ],
+            "responses": [
+                "That's wonderful! Keep enjoying this positive moment 🌟",
+                "I'm so glad to hear that! Happiness is contagious, share it if you can 😄",
+                "Your joy matters! Keep doing things that make you smile.",
+                "Amazing! Remember to celebrate the little victories in life 🎉"
+            ]
+        },
+        {
+            "tag": "sad",
+            "patterns": [
+                "sad",
+                "unhappy",
+                "down",
+                "feeling low",
+                "depressed",
+                "heartbroken"
+            ],
+            "responses": [
+                "I'm sorry you're feeling this way.",
+                "It's okay to feel sad sometimes.",
+                "Remember, tough moments don't last forever. 💙",
+                "Do you want to hear a joke to cheer you up?",
+                "I have a joke that can make you laugh out loud!"
+            ]
+        },
+        {
+            "tag": "joke",
+            "patterns": [
+                "sure,tell me a joke",
+                "joke",
+                "cheer me up",
+                "make me laugh",
+                "can I get a joke"
+            ],
+            "responses": [
+                "What kind of tree fits in your hand? A palm tree! 😄",
+                "Why did the scarecrow win an award? Because he was outstanding in his field! 😂",
+                "Why did the teacher go to the eye doctor? She was missing a pupil! 😆"
+            ]
+        },
+        {
+            "tag": "crisis",
+            "patterns": [
+                "kill myself",
+                "want to die",
+                "i want to die",
+                "end my life",
+                "harm myself",
+                "no reason to live",
+                "suicide",
+                "i hate my life"
+            ],
+            "responses": [
+                "I'm really sorry you're feeling this way. You are not alone, and help is available.",
+                "If you are in Singapore, you can call the SOS (Samaritans of Singapore) at 1767 (24-hour hotline).",
+                "If you are in immediate danger, please call Singapore Emergency Services at 999.",
+                "If you are outside Singapore, you can find local crisis helplines at https://findahelpline.com",
+                "Would you like to talk about what’s been making you feel this way?"
+            ]
+        },
+        {
+            "tag": "anger",
+            "patterns": [
+                "angry",
+                "mad",
+                "furious",
+                "frustrated",
+                "upset"
+            ],
+            "responses": [
+                "It's okay to feel anger — try taking a deep breath and letting it out safely.",
+                "Anger is a natural emotion. Writing about it can help you process it.",
+                "Remember: 'For every minute you are angry, you lose sixty seconds of happiness.' – Ralph Waldo Emerson"
+            ]
+        },
+        {
+            "tag": "anxious",
+            "patterns": [
+                "anxious",
+                "nervous",
+                "worried",
+                "tense",
+                "panicky"
+            ],
+            "responses": [
+                "Feeling anxious is completely normal. Try to focus on your breathing.",
+                "Remember, this feeling will pass. You are safe right now.",
+                "Writing down what's worrying you can help calm your mind.",
+                "Quote: 'You don’t have to control your thoughts. You just have to stop letting them control you.' – Dan Millman"
+            ]
+        },
+        {
+            "tag": "stressed",
+            "patterns": [
+                "stressed",
+                "overwhelmed",
+                "burned out",
+                "pressure",
+                "worn out"
+            ],
+            "responses": [
+                "Take a deep breath. One step at a time.",
+                "Stress is tough, but remember to take breaks and be kind to yourself.",
+                "Even small steps can help reduce stress. You're doing your best!"
+            ]
+        },
+        {
+            "tag": "hopeless",
+            "patterns": [
+                "hopeless",
+                "helpeless",
+                "lost",
+                "discouraged",
+                "defeated",
+                "demotivated"
+            ],
+            "responses": [
+                "I know things feel heavy right now, but this moment will pass.",
+                "You are stronger than you think. Keep going, even if slowly.",
+                "Remember: 'Stars can't shine without darkness.' Stay hopeful."
+            ]
+        },
+        {
+            "tag": "quotes",
+            "patterns": [
+                "quote of the day",
+                "motivatation",
+                "inspire",
+                "hope",
+                "strength",
+                "confidence"
+            ],
+            "responses": [
+                "🌱 \"This too shall pass.\"",
+                "🌟 \"You are stronger than you think.\"",
+                "💙 \"Every day is a new beginning.\"",
+                "✨ \"Even the darkest night will end.\"",
+                "🌈 \"One small step today can change everything.\"",
+                "The more you sweat in practice, the less you bleed in battle.\""
+            ]
+        }
+    ]
+}
