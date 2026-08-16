@@ -28,7 +28,8 @@ Wellness_Chatbot/
 │
 ├── Chatbot.ipynb
 ├── README.md
-└── remote.txt
+├── diary.json
+├── intents.json
 ```
 
 ## How to Run
